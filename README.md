@@ -1,75 +1,76 @@
-# Vansh Kashyap
+<div align="center">
 
-### Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
+# 👋 Hey, I'm Vansh Kashyap
 
----
+### Data Science Enthusiast • Machine Learning Learner • Python Developer
 
-## About Me
-
-I am a passionate technology enthusiast with a strong interest in **Data Science, Machine Learning, and Artificial Intelligence**.  
-I enjoy solving problems, building projects, and continuously learning new technologies to improve my technical skills.
-
-Currently focused on:
-- Data Science & Machine Learning
-- Data Structures & Algorithms
-- Generative AI
-- Database Management
-- Python Development
+</div>
 
 ---
 
-## Technical Skills
+## 🚀 What I'm Focusing On
 
-### Languages
-- Python
-- C++
-- Java
-- SQL
-
-### Libraries & Tools
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
-- Git & GitHub
+- Building strong foundations in Machine Learning & Data Science
+- Solving DSA problems consistently
+- Exploring Generative AI applications
+- Creating practical AI/ML projects
+- Improving backend and database skills
 
 ---
 
-## Featured Project
+## 🛠️ Tech Stack
 
-### Hate Speech Detection using Machine Learning
-Developed a machine learning model capable of detecting hate speech from textual data using Natural Language Processing techniques and classification algorithms.
+<div align="left">
 
----
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode" />
 
-## Coding Profiles
-
-- GitHub: [vansh-kashyap1](https://github.com/vansh-kashyap1)
-- LeetCode: [Vansh18x17](https://leetcode.com/u/Vansh18x17/)
+</div>
 
 ---
 
-## GitHub Statistics
+## 📌 Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vansh-kashyap1&show_icons=true&theme=default)
+### 🔹 RAG Based AI Teaching Assistant
+An AI-powered teaching assistant built using Retrieval-Augmented Generation (RAG) to provide accurate and context-aware responses from custom educational data.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-kashyap1&layout=compact&theme=default)
+### 🔹 California House Price Prediction
+A Machine Learning project that predicts California housing prices using regression algorithms and data analysis techniques.
 
----
-
-## Current Goals
-
-- Strengthen problem-solving skills
-- Build real-world AI/ML projects
-- Contribute to open-source projects
-- Improve knowledge of Generative AI
+### 🔹 Hate Speech Detection Using Machine Learning
+A Natural Language Processing project that detects hate speech from text using machine learning classification models.
 
 ---
 
-## Contact
+## 📊 GitHub Stats
 
-Feel free to connect and collaborate on projects related to Data Science, Machine Learning, and Software Development.
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vansh-kashyap1&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-kashyap1&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 ---
-```
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vansh-kashyap1&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vansh-kashyap1)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vansh18x17/)
+
+</div>
+
+---
