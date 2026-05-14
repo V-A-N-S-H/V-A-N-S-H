@@ -41,28 +41,6 @@ A Natural Language Processing project that detects hate speech from text using m
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vansh-kashyap1&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-kashyap1&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vansh-kashyap1&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="left">
