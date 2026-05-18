@@ -22,7 +22,9 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,anaconda" />
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,matplotlib,seaborn" />
 
 </div>
 
