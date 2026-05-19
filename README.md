@@ -20,8 +20,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,anaconda" />
