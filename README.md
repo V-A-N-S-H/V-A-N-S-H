@@ -24,6 +24,8 @@
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,anaconda" />
 
+<br><br>
+
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,matplotlib,seaborn" />
 
 </div>
@@ -50,6 +52,10 @@ A Natural Language Processing project that detects hate speech from text using m
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vansh-kashyap1)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vansh18x17/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-kashyap1)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vanshkashyap.1295@gmail.com)
 
 </div>
 
