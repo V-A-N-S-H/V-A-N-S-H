@@ -14,7 +14,7 @@
 - Solving DSA problems consistently
 - Exploring Generative AI applications
 - Creating practical AI/ML projects
-- Improving backend and database skills
+- Improving database and problem-solving skills
 
 ---
 
