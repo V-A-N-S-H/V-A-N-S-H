@@ -20,12 +20,11 @@
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,anaconda" />
-
-<br><br>
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,matplotlib,seaborn" />
 
 </div>
